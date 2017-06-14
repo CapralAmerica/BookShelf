@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Kumar+One');
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 1200px;
+}
+.navbar .navbar-nav > li > a {
+    color: #e7e7e7;
+    font-family: Arimo;
+}
+.navbar .navbar-header  > a {
+    color: #e7e7e7;
+    font-family: Kumar One;
+}
+.navbar {
+    background-color: #d6955f;
+    border-radius: 10px;
+}
+body {
+    background-color: #e9e3d8;
+}
+.thumbnail {
+    background-color: #e9e3d8;
+    border: 1px solid #d0915d;
+    border-radius: 10px;
+
+}
+h3,h4 {
+    font-family: Oswald;
+}
+p {
+    font-family: Ubuntu;
+}
+label {
+    font-family: Arimo;
+    font-size: 16px;
+}
